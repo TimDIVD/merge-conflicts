@@ -1,5 +1,5 @@
 # References
 
 * octocat 2000 😈# References
-conflict
+* conflict
 * octocat 1 😈
